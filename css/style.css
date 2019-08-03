@@ -1,0 +1,55 @@
+#frmLogin {
+		padding: 20px 60px;
+		background: #B6E0FF;
+		color: #555;
+		display: inline-block;		
+		border-radius: 4px;
+	}
+	.field-group {
+		margin-top:15px;
+		margin-left:0px;
+	}
+	.input-field {
+		padding: 8px;
+		width: 200px;
+		border: #A3C3E7 1px solid;
+		border-radius: 4px;
+	}
+	.form-submit-button {
+		background: #65C370;
+		border: 0;
+		padding: 8px 20px;
+		border-radius: 4px;
+		color: #FFF;
+		text-transform: uppercase;
+	}
+	.member-dashboard {
+		padding: 40px;
+		background: #D2EDD5;
+		color: #555;
+		border-radius: 4px;
+		display: inline-block;
+	}
+	.member-dashboard a {
+		color: #09F;
+		text-decoration:none;
+	}
+	.error-message {
+		text-align:center;
+		color:#FF0000;
+	}
+
+	body{
+		margin-top:13%;
+		margin-right:5%;
+		text-align:center;
+		background-image:url(../images/b1.jpg);
+		background-size: cover;
+	}
+	.login{
+		padding:20px;
+		width:300px;
+		height:200px;
+		background-color:rgb(255,120,30,0.5);
+		box-shadow:5px 5px 5px grey;
+	}
